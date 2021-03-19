@@ -7,4 +7,5 @@ https://princessmoss.github.io/WeatherDashboard/
 # Github Repository
 https://github.com/princessmoss/WeatherDashboard
 
-![gif](https://github.com/princessmoss/WorkDayScheduler/blob/main/assets/Images/Work%20Day%20Scheduler.gif)
+
+![screenshot of webpage](assets/images/WeatherDashboard.png)
